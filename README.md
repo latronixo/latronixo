@@ -23,20 +23,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=latronixo)](https://git.io/streak-stats)
 
-Виджет, выводящий статистику по часто используемым языкам в репозиториях пользователя
-компактный - 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latronixo&layout=compact)](https://github.com/latronixo/github-readme-stats)
-
-полный - 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latronixo)](https://github.com/latronixo/github-readme-stats)
-
-Виджет выводит основную информацию о деятельности пользователь на платформе — общее количество звезд, коммитов и вкладов в сообщество.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latronixo)](https://github.com/latronixo/github-readme-stats)
-
-Виджет показывает сколько человек просмотрели ваш профиль
 
 ![](https://komarev.com/ghpvc/?username=latronixo)
 
@@ -44,26 +31,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latronixo&theme=solarized_dark)
 
-Статистика языков в коммитах:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latronixo&theme=solarized_dark)
-
-Статистика языков в репозиториях:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latronixo&theme=solarized_dark)
-
 Статистика профиля:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=latronixo&theme=solarized_dark)
-
-Данные по коммитам за сутки:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latronixo&theme=solarized_dark)
-
-конструкторы readme
-
-https://arturssmirnovs.github.io/github-profile-readme-generator/
-
-https://rahuldkjain.github.io/gh-profile-readme-generator/
-
 
