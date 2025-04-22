@@ -15,56 +15,50 @@
 
 ![](https://github.com/latronixo/latronixo/blob/features/readme/Сертификат%20об%20окончании%20Марафона%20Devrush%20(Angela)%20iOS-разработчик%20(UIKit)%202022.png)
 
-Анимированный текст с эффектом печати
-
-https://readme-typing-svg.herokuapp.com/demo/
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Aleksa)](https://git.io/typing-svg)
-
 Трофеи:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Loveink)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=latronixo)](https://github.com/ryo-ma/github-profile-trophy)
 
 Виджет, показывающий актуальную продолжительность ежедневных сессий на GitHub, самую длинную сессию за все время и суммарное количество вкладов в сообщество. 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Loveink)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=latronixo)](https://git.io/streak-stats)
 
 Виджет, выводящий статистику по часто используемым языкам в репозиториях пользователя
 компактный - 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loveink&layout=compact)](https://github.com/Loveink/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latronixo&layout=compact)](https://github.com/latronixo/github-readme-stats)
 
 полный - 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loveink)](https://github.com/Loveink/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latronixo)](https://github.com/latronixo/github-readme-stats)
 
 Виджет выводит основную информацию о деятельности пользователь на платформе — общее количество звезд, коммитов и вкладов в сообщество.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loveink)](https://github.com/Loveink/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latronixo)](https://github.com/latronixo/github-readme-stats)
 
 Виджет показывает сколько человек просмотрели ваш профиль
 
-![](https://komarev.com/ghpvc/?username=Loveink)
+![](https://komarev.com/ghpvc/?username=latronixo)
 
 Карточка профиля: 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loveink&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latronixo&theme=solarized_dark)
 
 Статистика языков в коммитах:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Loveink&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latronixo&theme=solarized_dark)
 
 Статистика языков в репозиториях:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Loveink&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latronixo&theme=solarized_dark)
 
 Статистика профиля:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Loveink&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=latronixo&theme=solarized_dark)
 
 Данные по коммитам за сутки:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Loveink&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latronixo&theme=solarized_dark)
 
 конструкторы readme
 
