@@ -1,12 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1D56F7&background=5DEE2100&center=true&width=435&lines=Hi!+I'm+Valentin)](https://git.io/typing-svg)
-
 ![](https://komarev.com/ghpvc/?username=latronixo)
 
 ## Hi there 👋
 
  I'm Valentin. I'm from Moscow, Russia. Learning Swift from 2022. Studied at the Angela Yu Bootcamp (https://www.udemy.com/course/ios-13-app-development-bootcamp). Finish Swift marathon 6.0 (https://devrush.eduonline.io) in top 5 participants. I'm currently looking for a job as an iOS developer.
 
-## Skills and Experience
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1D56F7&width=435&lines=Skills+and+Experience)](https://git.io/typing-svg)
 
 - 🦜 Swift
 - 🔨 Xcode
